@@ -17,3 +17,5 @@ Created dynamic filters and visualizations to break down revenue by Year and Sal
 Conducted a detailed revenue breakdown, highlighting that Food revenue (91.12%) outweighs Drink revenue with a total of $16.37M, offering key insights into product category performance.
 
 Developed performance analysis reports segmented by Supervisor, Manager, and Salesperson, allowing for efficient performance tracking and targeted business strategy adjustments.
+
+**Note that there are two datasets: one is the Orders table, and the other is the Products table, where the Product ID serves as the primary key. In the model view section of Power BI, I have created a one-to-many relationship between these two tables.**
